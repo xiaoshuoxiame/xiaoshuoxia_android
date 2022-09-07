@@ -1,4 +1,4 @@
-## Discuz-Android
+## 小说侠 Android APP
 IDE:Android Studio 1.2.1.1
 SDK:21
 JDK:1.7
@@ -19,5 +19,3 @@ JDK:1.7
 4. string.xml > app_name
 
 
-## 问题反馈
-https://bbs.comsenz-service.com/forum-58-1.html
