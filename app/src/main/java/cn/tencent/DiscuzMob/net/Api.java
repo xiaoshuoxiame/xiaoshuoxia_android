@@ -26,10 +26,8 @@ public class Api {
 
     private static Api sInstance;
     //正式环境
-//    public final String URL = "http://bbs.rednet.cn/api/mobile/";
     public final String URL = AppNetConfig.BASEURL;
     //测试环境
-//    public final String URL = "http://rednet.pm.comsenz-service.com/api/mobile/";
 
     private final String API_VERSION = "&version=4";
     private static final CacheControl NO_STORE = new CacheControl.Builder().noStore().noCache().build();

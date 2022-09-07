@@ -156,7 +156,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_centerVertical="true"
-                    android:text="关于“掌上论坛”"
+                    android:text="关于“小说侠”"
                     android:textColor="@color/black"/>
 
                 <ImageView

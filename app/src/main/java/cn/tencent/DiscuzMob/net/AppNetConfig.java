@@ -6,8 +6,7 @@ package cn.tencent.DiscuzMob.net;
 
 public class AppNetConfig {
 
-    public static final String BASE_ADDRESS = "https://guanjia.comsenz-service.com/"; //【注意】更改BASE_ADDRESS的时候，要搜索全局替换， 因为JS中也有。
-//    public static final String BASE_ADDRESS = "https://bbs.comsenz-service.com/"; //正式服务器
+    public static final String BASE_ADDRESS = "https://a.xiaoshuoxia.xyz/"; //【注意】更改BASE_ADDRESS的时候，要搜索全局替换， 因为JS中也有。
     public  String  ChangeUrl=BASE_ADDRESS;
 
     public String getChangeUrl() {
@@ -21,7 +20,6 @@ public class AppNetConfig {
     public static final String IMGURL = BASE_ADDRESS;
     public static final String IMGURL1 = BASE_ADDRESS;
     public static final String BASEURL = BASE_ADDRESS + "api/mobile/";
-    public static final String LIVEBASEURL = "http://bbs.wsq.comsenz-service.com/newwsq/forum.php";
     public static final String LOGOURL = IMGURL1 + "static/image/common/logo.png";
     public static final String IMAGES = BASEURL + "?module=iwechat&data=json&version=5&mobiletype=Android";//轮播图
     public static final String ALLFORUM = BASEURL + "?module=forumindex&version=5&debug=1&mobiletype=Android";//全部版块

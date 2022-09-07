@@ -137,7 +137,7 @@ public abstract class ShareDialog extends Dialog implements View.OnClickListener
                 oks.setTitle(title);
                 oks.setTitleUrl(url);
                 oks.setText(s);
-                oks.setSite("掌上论坛");
+                oks.setSite("小说侠");
                 oks.setSiteUrl(AppNetConfig.BASEURL);
                 oks.setImageUrl(AppNetConfig.LOGOURL);
                 MobclickAgent.onSocialEvent(context, new UMPlatformData(UMPlatformData.UMedia.TENCENT_QZONE, ShareSDK.getPlatform(QZone.NAME).getDb().getUserId()));

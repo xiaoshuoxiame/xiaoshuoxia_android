@@ -82,7 +82,7 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:layout_marginTop="5dp"
-        android:text="为了给您更好的服务,请关联一个掌上论坛账户。"
+        android:text="为了给您更好的服务,请关联一个小说侠账户。"
         android:textColor="#333"
         android:textSize="12sp" />
 
@@ -91,7 +91,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="8dp"
         android:layout_marginTop="40dp"
-        android:text="还没有掌上论坛账户?"
+        android:text="还没有小说侠账户?"
         android:textColor="#9c9c9c"
         android:textSize="14sp" />
 
@@ -113,7 +113,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="8dp"
         android:layout_marginTop="40dp"
-        android:text="已有掌上论坛账户?"
+        android:text="已有小说侠账户?"
         android:textColor="#9c9c9c"
         android:textSize="14sp" />
 

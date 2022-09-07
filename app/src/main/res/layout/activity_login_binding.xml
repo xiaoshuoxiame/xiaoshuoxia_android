@@ -48,7 +48,7 @@
         android:layout_marginBottom="20dp"
         android:layout_marginLeft="8dp"
         android:layout_marginTop="20dp"
-        android:text="关联已有掌上论坛账户"
+        android:text="关联已有小说侠账户"
         android:textColor="#656565"
         android:textSize="14sp" />
 
@@ -110,7 +110,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="8dp"
         android:layout_marginTop="30dp"
-        android:text="关联后,您的微信账户和掌上论坛账户都可以登录"
+        android:text="关联后,您的微信账户和小说侠账户都可以登录"
         android:textColor="#c2c2c2"
         android:textSize="12sp" />
 
